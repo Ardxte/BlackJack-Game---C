@@ -56,8 +56,8 @@ The game follows standard Blackjack rules:
 
 This project was developed as a programming project to practice C programming, graphical user interface development, functions, arrays, randomization, and game logic.
 
-## Credits
+## Project Demo
 
-The project uses the provided `gfx` graphics library for graphical interface functionality.
+[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/agb8fqaoUdc)
 
-If external libraries or code are used in this project, please refer to their respective repositories and licenses for attribution and usage information.
+
