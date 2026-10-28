@@ -38,7 +38,6 @@ The game follows standard Blackjack rules:
 - **GCC**
 - **Linux**
 
-
 ## Gameplay
 
 1. Start a new game.
