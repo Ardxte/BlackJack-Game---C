@@ -58,6 +58,5 @@ This project was developed as a programming project to practice C programming, g
 
 ## Project Demo
 
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/agb8fqaoUdc)
-
+▶️ [Project Demo](https://youtu.be/agb8fqaoUdc)
 
